@@ -11,6 +11,7 @@
   <sprites name="sprites">
     <sprite>sprites\soccer_ball</sprite>
     <sprite>sprites\wallBlock</sprite>
+    <sprite>sprites\controller</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\soccerField</background>
@@ -22,8 +23,9 @@
     <script>scripts\script0.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\soccerBallObj</object>
-    <object>objects\wallBlockObj</object>
+    <object>objects\soccerBallAnObj</object>
+    <object>objects\invWallBlockObj</object>
+    <object>objects\controllerObj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mainroom</room>
