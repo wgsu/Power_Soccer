@@ -22,6 +22,9 @@
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\standard</font>
+  </fonts>
   <objects name="objects">
     <object>objects\soccerBallAnObj</object>
     <object>objects\invWallBlockObj</object>
