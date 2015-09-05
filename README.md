@@ -7,4 +7,6 @@ http://www.powersoccershop.com/powersoccervideos.aspx
 
 The game of power wheelchair soccer is played on a basketball court 4 on 4. Each team has a goalie, 2 wings and a center or midfielder. Players can hit the ball using sidekicks or can drive straight into the ball or with the back of the chair. 2 penalties that you will want to learn about our referred to as 2 on 1 and 3 in the box. A 2 on 1 penalty refers to 2 offensive players both being within 10 feet of the ball while a defensive player is also attacking for the ball (this can also be 2 defensive players and 1 offensive player).  3 in the box refers to having more than the goalie plus one defensive player within the goalie box. This will result in a penalty and a free kick for the opposing team.
  
-Our hope is to make this an online game where a player can either play against the computer and operate all the players on one team or be able to sign in and play other individuals. A downloadable program would also be of interest.
+All the souunds used in this game are from freesound under creative common 0.
+All the spirites used in this game are either provided by game maker free resources or are found on Open Game Art.
+The background image used in this game is provided by www.amon.co  
