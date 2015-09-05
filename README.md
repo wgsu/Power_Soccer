@@ -9,4 +9,4 @@ The game of power wheelchair soccer is played on a basketball court 4 on 4. Each
  
 All the souunds used in this game are from freesound under creative common 0.
 All the spirites used in this game are either provided by game maker free resources or are found on Open Game Art.
-The background image used in this game is provided by www.amon.com  
+The background image used in this game is provided by www.amon.co 
